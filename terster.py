@@ -4,7 +4,7 @@ import time
 from datetime import datetime, timedelta
 
 # Server info
-HOST = "192.168.8.64"
+HOST = "192.168.1.5"
 PORT = 9001
 
 # Sample names list
